@@ -70,7 +70,11 @@ print(accuracy)
 ```
 
 ## Output:
-![Uploading image.png…]()
+![alt text](image-2.png)
+![alt text](image-3.png)
+![alt text](image-4.png)
+![alt text](image-5.png)
+![alt text](image-6.png)
 
 ## Result:
 Thus the program to implement the SVM For Spam Mail Detection is written and verified using python programming.
